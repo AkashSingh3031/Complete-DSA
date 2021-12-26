@@ -13,4 +13,4 @@ class Solution
             }
             return result;
 		}
-};
+}
