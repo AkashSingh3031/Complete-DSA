@@ -3,7 +3,12 @@
 ## Arrays
 
 <details>
-  <summary><img id="array" src="https://img.shields.io/badge/Arrays-1-brightgreen?style=for-the-badge"></summary>
+  <summary><img id="array" src="https://img.shields.io/badge/Arrays-2-brightgreen?style=for-the-badge"></summary>
+  
+<img src="https://img.shields.io/badge/Basic-2-blue?style=plastic">
+<img src="https://img.shields.io/badge/Easy-0-brightgreen?style=plastic">
+<img src="https://img.shields.io/badge/Medium-0-yellow?style=plastic">
+<img src="https://img.shields.io/badge/Hard-0-orange?style=plastic">
 
 | S.No. | Topic:  | Problem                          | Level                                                    | Solutions  | Python                                                                 | C++                                                                    | Java                                                                   |
 |:------|:-------:|:--------------------------------:|:--------------------------------------------------------:|:----------:|:----------------------------------------------------------------------:|:----------------------------------------------------------------------:|-----------------------------------------------------------------------:|
