@@ -3,10 +3,10 @@
 </p>
 
 ## `Table of Contents 📋`
-| **SNo.** | **Contents** |
-| -------- | ------------ |
-| 1.       | [Mathematics](#-1-mathematics) |
-| 2.       | [Array](#-2-array) |
+| **SNo.** | **Contents** | **Total Problems** |
+| -------- | ------------ | ------------------ |
+| 1.       | [Mathematics](#-1-mathematics) | 22 |
+| 2.       | [Array](#-2-array) | 1 |
 
 ## ``` 1. Mathematics```
 
@@ -34,7 +34,7 @@
 |7|<img src="https://img.shields.io/badge/Easy-brightgreen">|![image](https://user-images.githubusercontent.com/60146338/203333430-98d3d2b8-c5af-449a-b97f-3017b834836a.png)|![image](https://user-images.githubusercontent.com/60146338/203333579-c016dbc8-acd1-4cc1-8c1d-1e977eb41c15.png)|
 |8|<img src="https://img.shields.io/badge/Easy-brightgreen">|![image](https://user-images.githubusercontent.com/60146338/203340091-98390e56-692f-4331-ad38-c66c081e1016.png)|![image](https://user-images.githubusercontent.com/60146338/203369158-197e0399-ac3e-4fd8-a939-feda0666d750.png)|
 |9|<img src="https://img.shields.io/badge/Basic-blue">|![image](https://user-images.githubusercontent.com/60146338/203356861-2409c913-656d-4e6e-84a6-0f7316ad5068.png)|![image](https://user-images.githubusercontent.com/60146338/203359800-b108e44f-cbd8-4efc-b19b-301beef1d763.png)|
-|10|<img src="https://img.shields.io/badge/Basic-blue">|![image](https://user-images.githubusercontent.com/60146338/203357711-91210be2-60d7-4324-9e10-cf62c98f9a07.png)||
+|10|<img src="https://img.shields.io/badge/Basic-blue">|![image](https://user-images.githubusercontent.com/60146338/203357711-91210be2-60d7-4324-9e10-cf62c98f9a07.png)|![image](https://user-images.githubusercontent.com/60146338/203489734-becd7031-ae41-4076-b599-c7263b2eb290.png)|
 |11|<img src="https://img.shields.io/badge/Easy-brightgreen">|![image](https://user-images.githubusercontent.com/60146338/203356284-e3aec3f2-fc34-48ad-85cb-a0bd85999b72.png)|![image](https://user-images.githubusercontent.com/60146338/203364068-fbe6cd6f-194a-4e68-9ee7-cbfaafbb3fa3.png)|
 |12|<img src="https://img.shields.io/badge/Easy-brightgreen"> <a href="#" target="_blank"><img align="center" src="https://github.com/AkashSingh3031/AkashSingh3031/blob/main/images/Social%20Media/microsoft.png" width="25px" height="25px" /></a>|![image](https://user-images.githubusercontent.com/60146338/203372375-549a0de9-4093-43a2-a5be-8f1ddd25f324.png)|![image](https://user-images.githubusercontent.com/60146338/203373478-9b3b7797-61f5-42e6-baac-e30ca6eea235.png)|
 |13|<img src="https://img.shields.io/badge/Easy-brightgreen"> <a href="#" target="_blank"><img align="center" src="https://github.com/AkashSingh3031/AkashSingh3031/blob/main/images/Social%20Media/microsoft.png" width="25px" height="25px" /></a>|![image](https://user-images.githubusercontent.com/60146338/203384923-8aebca4c-3147-485c-ba40-30ac024804f0.png)||
