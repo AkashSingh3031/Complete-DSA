@@ -47,6 +47,7 @@
 <img src="https://img.shields.io/badge/-Google-lightblue?style=flat&amp;labelColor=f00&amp;logo=google&amp;logoColor=0f0">
 <img src="https://img.shields.io/badge/-Microsoft-orange?style=flat&amp;labelColor=f00&amp;logo=microsoft&amp;logoColor=0f0">
 <img src="https://img.shields.io/badge/-Amazon-black?style=flat&amp;labelColor=orange&amp;logo=amazon&amp;logoColor=000">
+<img src="https://img.shields.io/badge/-Flipkart-blue?style=flat&amp;labelColor=ff0&amp;logo=flipkart&amp;logoColor=00f">
 
 | S.No. | Level | Problem | Solution |
 |-------|-------|---------|----------|
@@ -73,6 +74,7 @@
 <img src="https://img.shields.io/badge/-Google_6-lightblue?style=flat&amp;labelColor=f00&amp;logo=google&amp;logoColor=0f0">
 <img src="https://img.shields.io/badge/-Microsoft_5-orange?style=flat&amp;labelColor=f00&amp;logo=microsoft&amp;logoColor=0f0">
 <img src="https://img.shields.io/badge/-Amazon-black?style=flat&amp;labelColor=orange&amp;logo=amazon&amp;logoColor=000">
+<img src="https://img.shields.io/badge/-Flipkart-blue?style=flat&amp;labelColor=ff0&amp;logo=flipkart&amp;logoColor=00f">
 
 | S.No. | Level | Problem | Solution |
 |-------|-------|---------|----------|
@@ -121,6 +123,7 @@
 <img src="https://img.shields.io/badge/-Google-lightblue?style=flat&amp;labelColor=f00&amp;logo=google&amp;logoColor=0f0">
 <img src="https://img.shields.io/badge/-Microsoft-orange?style=flat&amp;labelColor=f00&amp;logo=microsoft&amp;logoColor=0f0">
 <img src="https://img.shields.io/badge/-Amazon-black?style=flat&amp;labelColor=orange&amp;logo=amazon&amp;logoColor=000">
+<img src="https://img.shields.io/badge/-Flipkart-blue?style=flat&amp;labelColor=ff0&amp;logo=flipkart&amp;logoColor=00f">
 
 | S.No. | Level | Problem | Solution |
 |-------|-------|---------|----------|
@@ -173,6 +176,7 @@
 <img src="https://img.shields.io/badge/-Google-lightblue?style=flat&amp;labelColor=f00&amp;logo=google&amp;logoColor=0f0">
 <img src="https://img.shields.io/badge/-Microsoft-orange?style=flat&amp;labelColor=f00&amp;logo=microsoft&amp;logoColor=0f0">
 <img src="https://img.shields.io/badge/-Amazon-black?style=flat&amp;labelColor=orange&amp;logo=amazon&amp;logoColor=000">
+<img src="https://img.shields.io/badge/-Flipkart-blue?style=flat&amp;labelColor=ff0&amp;logo=flipkart&amp;logoColor=00f">
 
 | S.No. | Level | Problem | Solution |
 |-------|-------|---------|----------|
