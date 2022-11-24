@@ -3,12 +3,63 @@
 </p>
 
 ## `Table of Contents 📋`
-| **SNo.** | **Contents** | **Total Problems** |
-| -------- | ------------ | ------------------ |
-| 1.       | [Mathematics](#-1-mathematics) | 22 |
-| 2.       | [Array](#-2-array) | 1 |
+| **SNo.**  | **Contents**                              | **Total Problems** |
+|-----------|-------------------------------------------|--------------------|
+| 1.        | [Algorithms](#)                           | 0                  |
+| 2.        | [Mathematics](#-2-mathematics)            | 22                 |
+| 3.        | [Bit Manipulation](#)                     | 0                  |
+| 4.        | [Array](#-4-array)                        | 1                  |
+| 5.        | [Matrix](#)                               | 0                  |
+| 6.        | [Strings](#)                              | 0                  |
+| 7.        | [Two Pointers](#)                         | 0                  |
+| 8.        | [Sliding Window](#)                       | 0                  |
+| 9.        | [Hashing](#)                              | 0                  |
+| 10.       | [Searching](#)                            | 0                  |
+| 11.       | [Sorting](#)                              | 0                  |
+| 12.       | [Recursion & Backtracking](#)             | 0                  |
+| 13.       | [Linked List](#)                          | 0                  |
+| 14.       | [Stack](#)                                | 0                  |
+| 15.       | [Queue](#)                                | 0                  |
+| 16.       | [Tree](#)                                 | 0                  |
+| 17.       | [Binary Search Tree](#)                   | 0                  |
+| 18.       | [Heap](#)                                 | 0                  |
+| 19.       | [Graph](#)                                | 0                  |
+| 20.       | [Greedy](#)                               | 0                  |
+| 21.       | [Dynamic Programming](#)                  | 0                  |
+| 22.       | [Divide and Conquer](#)                   | 0                  |
+| 23.       | [Trie](#)                                 | 0                  |
+| 24.       | [Segment Tree and Binary Indexed Tree](#) | 0                  |
+| 25.       | [Disjoint Set](#)                         | 0                  |
+| 26.       | [Design](#)                               | 0                  |
 
-## ``` 1. Mathematics```
+
+## ``` 1. Algorithms```
+
+<details>
+  <summary><img id="array" src="https://img.shields.io/badge/Algorithms-0-brightgreen?style=for-the-badge"></summary>
+  
+<img src="https://img.shields.io/badge/School-0-lightblue?style=plastic">
+<img src="https://img.shields.io/badge/Basic-0-blue?style=plastic">
+<img src="https://img.shields.io/badge/Easy-0-brightgreen?style=plastic">
+<img src="https://img.shields.io/badge/Medium-0-yellow?style=plastic">
+<img src="https://img.shields.io/badge/Hard-0-red?style=plastic">
+<br>
+<img src="https://img.shields.io/badge/-Google-lightblue?style=flat&amp;labelColor=f00&amp;logo=google&amp;logoColor=0f0">
+<img src="https://img.shields.io/badge/-Microsoft-orange?style=flat&amp;labelColor=f00&amp;logo=microsoft&amp;logoColor=0f0">
+<img src="https://img.shields.io/badge/-Amazon-black?style=flat&amp;labelColor=orange&amp;logo=amazon&amp;logoColor=000">
+
+| S.No. | Level | Problem | Solution |
+|-------|-------|---------|----------|
+|1|<img src="https://img.shields.io/badge/Basic-blue">|||
+
+<br/>
+<div align="right">
+    <b><a href="#table-of-contents-">⬆️ Back to Top</a></b>
+</div>
+<br/>
+</details>
+
+## ``` 2. Mathematics```
 
 <details>
   <summary><img id="array" src="https://img.shields.io/badge/Math-22-brightgreen?style=for-the-badge"></summary>
@@ -56,7 +107,33 @@
 <br>
 </details>
 
-## ``` 2. Array```
+## ``` 3. Bit Manipulation```
+
+<details>
+  <summary><img id="array" src="https://img.shields.io/badge/Bit_Manipulation-0-brightgreen?style=for-the-badge"></summary>
+  
+<img src="https://img.shields.io/badge/School-0-lightblue?style=plastic">
+<img src="https://img.shields.io/badge/Basic-0-blue?style=plastic">
+<img src="https://img.shields.io/badge/Easy-0-brightgreen?style=plastic">
+<img src="https://img.shields.io/badge/Medium-0-yellow?style=plastic">
+<img src="https://img.shields.io/badge/Hard-0-red?style=plastic">
+<br>
+<img src="https://img.shields.io/badge/-Google-lightblue?style=flat&amp;labelColor=f00&amp;logo=google&amp;logoColor=0f0">
+<img src="https://img.shields.io/badge/-Microsoft-orange?style=flat&amp;labelColor=f00&amp;logo=microsoft&amp;logoColor=0f0">
+<img src="https://img.shields.io/badge/-Amazon-black?style=flat&amp;labelColor=orange&amp;logo=amazon&amp;logoColor=000">
+
+| S.No. | Level | Problem | Solution |
+|-------|-------|---------|----------|
+|1|<img src="https://img.shields.io/badge/Basic-blue">|||
+
+<br/>
+<div align="right">
+    <b><a href="#table-of-contents-">⬆️ Back to Top</a></b>
+</div>
+<br/>
+</details>
+
+## ``` 4. Array```
 
 <details>
   <summary><img id="array" src="https://img.shields.io/badge/Array-1-brightgreen?style=for-the-badge"></summary>
@@ -74,6 +151,32 @@
 | S.No. | Level | Problem | Solution |
 |-------|-------|---------|----------|
 |1|<img src="https://img.shields.io/badge/Basic-blue">|![image](https://user-images.githubusercontent.com/60146338/203330239-c3b598ad-162d-4aaf-ba92-0446775e4b8c.png)|![image](https://user-images.githubusercontent.com/60146338/203330409-b8da98d9-1da9-48cb-b138-fc53766f8296.png)|
+
+<br/>
+<div align="right">
+    <b><a href="#table-of-contents-">⬆️ Back to Top</a></b>
+</div>
+<br/>
+</details>
+
+## ``` 5. Matrix```
+
+<details>
+  <summary><img id="array" src="https://img.shields.io/badge/Matrix-0-brightgreen?style=for-the-badge"></summary>
+  
+<img src="https://img.shields.io/badge/School-0-lightblue?style=plastic">
+<img src="https://img.shields.io/badge/Basic-0-blue?style=plastic">
+<img src="https://img.shields.io/badge/Easy-0-brightgreen?style=plastic">
+<img src="https://img.shields.io/badge/Medium-0-yellow?style=plastic">
+<img src="https://img.shields.io/badge/Hard-0-red?style=plastic">
+<br>
+<img src="https://img.shields.io/badge/-Google-lightblue?style=flat&amp;labelColor=f00&amp;logo=google&amp;logoColor=0f0">
+<img src="https://img.shields.io/badge/-Microsoft-orange?style=flat&amp;labelColor=f00&amp;logo=microsoft&amp;logoColor=0f0">
+<img src="https://img.shields.io/badge/-Amazon-black?style=flat&amp;labelColor=orange&amp;logo=amazon&amp;logoColor=000">
+
+| S.No. | Level | Problem | Solution |
+|-------|-------|---------|----------|
+|1|<img src="https://img.shields.io/badge/Basic-blue">|||
 
 <br/>
 <div align="right">
