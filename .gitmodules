@@ -1,0 +1,3 @@
+[submodule "LeetCode"]
+	path = LeetCode
+	url = https://github.com/AkashSingh3031/Complete-LeetCode-Solution.git
